@@ -1,0 +1,22 @@
+h2 {
+    background: purple;
+}
+.paragraph-1 {
+    background: yellow;
+    font-size: 32pt;
+    color: green;
+}
+.paragraph-2 {
+    border:10px solid yellow;
+    border-radius: 5px;
+    font-size:24pt;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+.paragraph-3 {
+    font-size: 24pt;
+    font-style: italic;
+    text-align: center;
+}
