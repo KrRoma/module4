@@ -19,4 +19,5 @@ h2 {
     font-size: 24pt;
     font-style: italic;
     text-align: center;
+    text-shadow: 3px 4px 5px green;
 }
